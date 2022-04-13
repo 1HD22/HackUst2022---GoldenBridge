@@ -52,10 +52,10 @@ Pressing R on the keyboard resets the prototype back to the first page
 
 ## Authors
 
-Lai Ming Xuan(mxlai@connect.ust.hk)
-Thia Yee Xin(yxthia@connect.ust.hk)
-Josiah Ng(jjwng@connect.ust.hk)
-William Yap(wkhyap@connect.ust.hk)
+* Lai Ming Xuan(mxlai@connect.ust.hk)
+* Thia Yee Xin(yxthia@connect.ust.hk)
+* Josiah Ng(jjwng@connect.ust.hk)
+* William Yap(wkhyap@connect.ust.hk)
 
 ## Version History
 
