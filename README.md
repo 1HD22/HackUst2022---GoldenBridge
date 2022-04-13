@@ -22,7 +22,7 @@ The prototype is designed on Figma.
 ### Installing
 
 https://www.figma.com/file/a01G7jdJn3i59UN7WgPde9/GoldenBridge?node-id=0%3A1
-This link will link the user the the Figma website, where the general overview of the app can be seen. (for viewing purpose only)
+This link will link the user the Figma website, where the general overview of the app can be seen. (for viewing purpose only)
 
 https://www.figma.com/proto/a01G7jdJn3i59UN7WgPde9/GoldenBridge?node-id=20%3A106&scaling=scale-down&page-id=0%3A1&starting-point-node-id=20%3A106
 The link above links the user to the Figma wabsite, where the prototype can be seen.
