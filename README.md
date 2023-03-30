@@ -4,7 +4,7 @@ GoldenBridge
 
 ## Theme
 
-This project is a submission for HackUST2022 hosted by The Hong Kong University of Science and Technology 
+This project is a submission for HackUST2022 hosted by The HKUST Entrepreneurship center
 
 This project attempt to tackle the issues of Social Entrepreneurship
 
